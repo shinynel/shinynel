@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shinynel
 - 👀 I’m interested in programming, 3d art, manual art and photography.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Flutter
 - 😄 Pronouns: He/Him - She/Her
-- ⚡ Roadmap: Currently starting CS50x, looking to go to CS50P later on.
-- 💼 Working as IT Helpdesk Technician, looking to move/change career.
+- ⚡ Roadmap: Coding
+- 💼 Prev. working as an IT Helpdesk Technician, switched to Electrician.
 
 <!---
 shinynel/shinynel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
